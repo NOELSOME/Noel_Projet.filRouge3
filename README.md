@@ -4,7 +4,7 @@ ICT4DEV ;  E-Agriculture, Base de données ; Développement d’application de g
 ### Diplômes
 * DEUG En MATH PHYSIQUE INFORMATIQUE
 * Maitrise EN MIAGE(Methode Informatique Appliquées à la GEstion)
-* DESS en Informatique Decissionnelle et Developpement d'application
+* DESS en Informatique Decisionnelle et Developpement d'application
 * Certifié en développement d'application Gamifié ou ludique par GIZ et Ministere allemande de la cooperation
 
 ![alt](https://github.com/NOELSOME/Noel_Projet.filRouge3/blob/master/images/photo.PNG) 
