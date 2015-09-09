@@ -1,11 +1,11 @@
 # Presentation
-## Domaine de competence
+### Domaine de competence
 ICT4DEV ;  E-Agriculture, Base de données ; Développement d’application de gestion,web et bureau ; Data science ; Développement d’applications Mobiles et SMS ; Télécommunication ;  Entreprenariat  Social ; Management etc..
-## Diplômes
-DEUG En MATH PHYSIQUE INFORMATIQUE
-MAItrise EN MIAGE(Methode Informatique Appliquées à la GEstion)
-DESS en Informatique Decissionnelle et Developpement d'application
-Certifié en développement d'application Gamifié par GIZ et Ministere allemande de la cooperation
+### Diplômes
+*DEUG En MATH PHYSIQUE INFORMATIQUE
+*MAItrise EN MIAGE(Methode Informatique Appliquées à la GEstion)
+*DESS en Informatique Decissionnelle et Developpement d'application
+*Certifié en développement d'application Gamifié ou ludique par GIZ et Ministere allemande de la cooperation
 
 ![alt](https://github.com/NOELSOME/Noel_Projet.filRouge3/blob/master/images/photo.PNG) 
 
